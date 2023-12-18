@@ -18,6 +18,7 @@ int main() {
 	bool acerto;
 
 	//Adicioando valores padrões para nossoas variáveis
+	//
 
 	chances = 6;
 	tam = 0;
